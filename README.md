@@ -4,6 +4,7 @@ A fully automated, live trend-following bot for **ETH/USD**, built for the **HK 
 
 **Highlights**
 
+
 - **Live, autonomous execution** on 15-minute bars, with price checks every second for take-profit and stop-loss.
 - **Indicators written from scratch** in Python: a Chandelier Exit with ratcheting stops and a Supertrend filter, updated incrementally rather than recomputed over the whole history.
 - **Exchange integration without an SDK**: HMAC-SHA256 request signing, market orders, balance queries, and retries with exponential backoff.
