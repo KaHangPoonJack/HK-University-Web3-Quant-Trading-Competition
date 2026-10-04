@@ -71,6 +71,10 @@ These lessons fed into my later work, including the SG vs HK Quant Trading Hacka
 ```
 bot.py      # the live trading bot
 README.md
+
+```
+Built by team SMASHCOINS: [POON Ka Hang (Jack)](https://github.com/KaHangPoonJack) and [SIT Chak Hong (Ivan)](https://github.com/ChakHongSit).
+
 ```
 
 *Built for a competition on Roostoo's mock exchange. Not financial advice.*
