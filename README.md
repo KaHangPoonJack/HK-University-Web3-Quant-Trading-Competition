@@ -9,6 +9,8 @@ A fully automated, live trend-following bot for **ETH/USD**, built for the **HK 
 - **Exchange integration without an SDK**: HMAC-SHA256 request signing, market orders, balance queries, and retries with exponential backoff.
 - **Instant start**: indicators are warmed up from historical candles at launch, so the bot can trade from its first bar.
 
+Built by team SMASHCOINS: [POON Ka Hang (Jack)](https://github.com/KaHangPoonJack) and [SIT Chak Hong (Ivan)](https://github.com/ChakHongSit).
+
 ## Strategy
 
 The bot trades long-only, in or out of ETH, using two trend indicators on 15-minute candles.
@@ -72,8 +74,7 @@ These lessons fed into my later work, including the SG vs HK Quant Trading Hacka
 bot.py      # the live trading bot
 README.md
 
-```
-Built by team SMASHCOINS: [POON Ka Hang (Jack)](https://github.com/KaHangPoonJack) and [SIT Chak Hong (Ivan)](https://github.com/ChakHongSit).
+
 
 ```
 
